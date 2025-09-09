@@ -2,7 +2,7 @@
   "name": "trello-analog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://solidoussnake.github.io/trello-analog.github.io/",
+  "homepage": "https://solidoussnake.github.io/trello-analog",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
