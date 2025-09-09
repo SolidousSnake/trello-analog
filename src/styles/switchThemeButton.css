@@ -1,0 +1,44 @@
+﻿body {
+    background-color: #f8f9fa;
+    color: #212529;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.darkmode {
+    background-color: #121212;
+    color: #f8f9fa;
+}
+
+body.darkmode .card {
+    background-color: #1e1e1e;
+    border-color: #333;
+    color: #f8f9fa;
+}
+
+.switch-theme__button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px;
+    border-radius: 50%;
+    transition: background-color 0.2s;
+}
+
+.switch-theme__button:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+body.darkmode .switch-theme__button:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.switch-theme__button svg {
+    fill: currentColor;
+}
+
+body.darkmode .text-muted {
+    color: #aaa !important;
+}
