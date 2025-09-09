@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trello-analog.github.io/static/css/main.54074c7d.css",
+    "main.js": "/trello-analog.github.io/static/js/main.793176c1.js",
+    "index.html": "/trello-analog.github.io/index.html",
+    "main.54074c7d.css.map": "/trello-analog.github.io/static/css/main.54074c7d.css.map",
+    "main.793176c1.js.map": "/trello-analog.github.io/static/js/main.793176c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54074c7d.css",
+    "static/js/main.793176c1.js"
+  ]
+}
