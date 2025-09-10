@@ -6,7 +6,7 @@ import Header from "./layout/header";
 import Content from "./layout/content";
 import Footer from "./layout/footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './styles/card.css';
+import './styles/theme.css';
 
 function App() {
     return (

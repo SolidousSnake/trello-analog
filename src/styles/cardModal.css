@@ -1,0 +1,39 @@
+﻿body.darkmode .modal-content {
+    background-color: #1e1e1e;
+    color: #f8f9fa;
+    border: 1px solid #333;
+}
+
+body.darkmode .modal-header,
+body.darkmode .modal-footer {
+    border-color: #333;
+}
+
+body.darkmode .form-control {
+    background-color: #2a2a2a;
+    border-color: #444;
+    color: #f8f9fa;
+}
+
+body.darkmode .form-control::placeholder {
+    color: #888;
+}
+
+body.darkmode .btn-secondary {
+    background-color: #444;
+    border-color: #555;
+}
+
+body.darkmode .btn-secondary:hover {
+    background-color: #555;
+}
+
+body.darkmode .btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+body.darkmode .btn-danger {
+    background-color: #bb2d3b;
+    border-color: #b02a37;
+}

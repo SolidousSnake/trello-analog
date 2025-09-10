@@ -1,0 +1,20 @@
+﻿body {
+    background-color: #f8f9fa;
+    color: #212529;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.darkmode {
+    background-color: #121212;
+    color: #f8f9fa;
+}
+
+body.darkmode .card {
+    background-color: #1e1e1e;
+    border-color: #333;
+    color: #f8f9fa;
+}
+
+body.darkmode .text-muted {
+    color: #aaa !important;
+}

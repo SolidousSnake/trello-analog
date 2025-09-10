@@ -1,5 +1,6 @@
 ﻿import React, { useState, useEffect } from 'react';
 import { Modal, Button, Form } from 'react-bootstrap';
+import '../styles/cardModal.css';
 
 export default function CardModal({ show, onClose, card, onSaveDescription, onDelete }) {
     const [description, setDescription] = useState('');

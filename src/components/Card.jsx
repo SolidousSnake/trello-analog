@@ -1,5 +1,6 @@
 ﻿import React from 'react';
 import { Draggable } from 'react-beautiful-dnd';
+import '../styles/card.css';
 
 export default function Card({ card, index, toggleDone, onCardClick }) {
     return (
